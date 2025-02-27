@@ -1,4 +1,8 @@
-body {
+
+*{
+overflow-y: hidden;
+}
+    body {
   
 
     
@@ -13,9 +17,10 @@ body {
 }
 .container {
     background: rgb(197 218 243 / 65%);
-    padding: 20px;
+    padding: 40px;
     border-radius: 10px;
     width: 400px;
+   
 }
 /*.input-group {
     display: flex;
